@@ -1,0 +1,14 @@
+# Maya AI Backend
+
+This folder contains the backend services for Maya AI.
+
+Technologies:
+- Python
+- FastAPI
+- SQLite/PostgreSQL
+- OpenAI API
+- Gemini API
+
+
+
+
